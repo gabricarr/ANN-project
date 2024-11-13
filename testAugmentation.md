@@ -9,6 +9,7 @@ tutte le augmentation che implicano cambi di colore dell'immagine fanno cagare, 
 | JitteredResize  | 94.45%    |
 | RandomSaturation | 14.03%     |
 | RandomSharpness | 12.5%  |
+| gaussian_noise | 94.07%  |
 
 # test 2 
 
