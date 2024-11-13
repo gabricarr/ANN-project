@@ -1,5 +1,5 @@
 # test 1
-tutte le augmentation che implicano cambi di colore dell'immagine 
+tutte le augmentation che implicano cambi di colore dell'immagine fanno cagare, probabilmente il colore è significativo nel nostro caso
 
 | nome | score |
 |------|-------|
